@@ -20,3 +20,7 @@ $ info --brief sail
 - 📦 Falling down the CI/CD rabbit hole
 - 🎮 Enjoying rock music and treating gaming as an art form
 ```
+
+<div align="center">
+  <img src="https://github.com/SailinEast/SailinEast/blob/0dada2d4c858f5d53b35eea18e591b34b8f3698b/github-contribution-grid-snake-dark.svg" alt="snake" />
+</div>
