@@ -18,7 +18,7 @@ $ info --brief sail
 - 🎓 1st Year SE Student
 - 🔨 Tinkering with my website (sailineast.me)
 - 📦 Falling down the CI/CD rabbit hole
-- 🎮 Enjoying rock music and treating gaming as an art form
+- 🎮 Exploring various types of games
 ```
 
 <div align="center">
