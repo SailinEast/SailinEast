@@ -1,16 +1,22 @@
-## Hi there 👋
+# Sail (@sailineast)
+**Software Engineering Student** • [sailineast.me](https://sailineast.me)
 
-<!--
-**SailinEast/SailinEast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+$ info --brief sail
+> Exploring various domains in software engineering. 
+> I build whatever catches my interest—from web apps to random utilities.
+> Excessive tea enjoyer ☕
+> Based in Kazakhstan
 
-Here are some ideas to get you started:
+[Stack]
+- Core:     Java, Python
+- Learning: Rust (Current focus), Go
+- Web:      SvelteKit 5, Tailwind CSS 4
+- Env:      Sublime Text 4, JetBrains
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Status]
+- 🎓 1st Year SE Student
+- 🔨 Tinkering with my website (sailineast.me)
+- 📦 Falling down the CI/CD rabbit hole
+- 🎮 Enjoying rock music and treating gaming as an art form
+```
