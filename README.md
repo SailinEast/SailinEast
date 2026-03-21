@@ -22,5 +22,5 @@ $ info --brief sail
 ```
 
 <div align="center">
-  <img src="https://github.com/SailinEast/SailinEast/blob/0dada2d4c858f5d53b35eea18e591b34b8f3698b/github-contribution-grid-snake-dark.svg" alt="snake" />
+  <img src="https://github.com/SailinEast/SailinEast/blob/f67693d754a0fab41e61825f4a515348990eb7af/github-contribution-grid-snake-dark.svg" alt="snake" />
 </div>
