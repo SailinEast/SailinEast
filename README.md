@@ -6,7 +6,8 @@ $ info --brief sail
 > Exploring various domains in software engineering. 
 > I build whatever catches my interest—from web apps to random utilities.
 > Excessive tea enjoyer ☕
-> Based in Kazakhstan
+> Based in Kazakhstan.
+> Ultimate goal: program my own OS.
 
 [Stack]
 - Core:     Java, Python
