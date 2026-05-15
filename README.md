@@ -17,8 +17,8 @@ $ info --brief sail
 
 [Status]
 - 🎓 1st Year SE Student
-- 🔨 Tinkering with my website (sailineast.me)
-- 📦 Falling down the CI/CD rabbit hole
+- 📖 Learning various stuff
+- 🔧 Getting into systems
 - 🎮 Exploring various types of games
 ```
 
