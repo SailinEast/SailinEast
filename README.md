@@ -4,14 +4,14 @@
 ```bash
 $ info --brief sail
 > Exploring various domains in software engineering. 
-> I build whatever catches my interest—from web apps to random utilities.
+> I build whatever catches my interest - from web apps to random utilities.
 > Excessive tea enjoyer ☕
 > Based in Kazakhstan.
 > Ultimate goal: program my own OS.
 
 [Stack]
 - Core:     Java, Python
-- Learning: Rust (Current focus), Go
+- Learning: C, C++, Rust, Go
 - Web:      SvelteKit 5, Tailwind CSS 4
 - Env:      Sublime Text 4, JetBrains
 
