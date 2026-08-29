@@ -16,7 +16,7 @@ $ info --brief sail
 - Env:      Sublime Text 4, JetBrains
 
 [Status]
-- 🎓 1st Year SE Student
+- 🎓 2nd Year SE Student
 - 📖 Learning various stuff
 - 🔧 Getting into systems
 - 🎮 Exploring various types of games
