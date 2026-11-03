@@ -4,22 +4,22 @@
 ```bash
 $ info --brief sail
 > Exploring various domains in software engineering. 
-> I build whatever catches my interest - from web apps to random utilities.
+> Interested in systems and compilers.
 > Excessive tea enjoyer ☕
 > Based in Kazakhstan.
-> Ultimate goal: program my own OS.
+> Ultimate goal: program my own OS or game engine.
 
 [Stack]
-- Core:     Java, Python
-- Learning: C, C++, Rust, Go
-- Web:      SvelteKit 5, Tailwind CSS 4
-- Env:      Sublime Text 4, JetBrains
+- Core:          Java, Python
+- Learning:      Rust, C, C++
+- Considering:   Go, Haskell/OCaml
+- Env:           Sublime Text 4, JetBrains
 
 [Status]
-- 🎓 2nd Year SE Student
-- 📖 Learning various stuff
-- 🔧 Getting into systems
-- 🎮 Exploring various types of games
+- 2nd Year SE Student
+- Learning various stuff
+- Getting into systems
+- Exploring various types of games
 ```
 
 <div align="center">
