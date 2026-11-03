@@ -1,5 +1,5 @@
 # Sail (@sailineast)
-**Software Engineering Student** • [sailineast.me](https://sailineast.me)
+**Software Engineering Student**
 
 ```bash
 $ info --brief sail
